@@ -23,7 +23,7 @@ email: marrazzy54@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ini adalah percobaan membuat blog menggunakan github pages dan jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://litfill.github.io/test-blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://litfill.github.io/test-blog # the base hostname & protocol for your site, e.g. http://example.com
 domain: litfill.github.io/test-blog
 twitter_username: razzy_ar
 github_username:  LitFill
